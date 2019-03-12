@@ -1,4 +1,4 @@
 pruebas
 =======
 
-Repositorio de pruebas desde visual studio
+Repositorio de pruebas
