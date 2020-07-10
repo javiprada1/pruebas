@@ -1,4 +1,4 @@
 pruebas
 =======
 
-Repositorio de pruebas desde VSC
+Repositorio de pruebas desde Github
