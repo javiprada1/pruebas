@@ -1,2 +1,2 @@
-# pruebas
-A simple test project.
+# A simple test project.
+Test
